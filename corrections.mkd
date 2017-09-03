@@ -1,0 +1,19 @@
+The following code (which you use):
+
+~~~
+    if smthg:
+        do something else
+    else:
+        pass
+~~~
+
+if equivalent to 
+
+~~~
+
+    if smthg:
+        do something else
+~~~
+You don't need the ``else``.
+
+**Score: 31/35**
